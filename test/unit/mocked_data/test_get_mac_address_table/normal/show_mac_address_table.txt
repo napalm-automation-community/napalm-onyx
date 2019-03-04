@@ -1,0 +1,9 @@
+---------------------------------------------------
+Vlan    Mac Address         Type         Port
+---------------------------------------------------
+1       E4:1D:2D:66:DF:9B   Dynamic      Eth1/19
+1       EC:0D:9A:42:EA:00   Dynamic      Eth1/19
+1       EC:0D:9A:42:EA:01   Dynamic      Eth1/31
+
+
+Number of unicast:    3

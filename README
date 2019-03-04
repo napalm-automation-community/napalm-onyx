@@ -1,1 +1,5 @@
-Napalm support for onyx devices
+napalm-onyx-ssh
+Napalm driver targeting Mellanox devices.
+
+Supported devices
+This driver initially targets the Mellanox device with Onyx OS though other, similar, devices may be supported.

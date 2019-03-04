@@ -1,0 +1,18 @@
+Hostname: ufm-switch20
+
+Name servers:
+      10.211.0.124                          dynamic (DHCP on mgmt0)
+      10.211.0.121                          dynamic (DHCP on mgmt0)
+      10.7.77.135                           dynamic (DHCP on mgmt0)
+
+Domain names:
+      mtr.labs.mlnx                         dynamic (DHCP on mgmt0)
+
+Static IPv4 host mappings:
+  127.0.0.1                            --> localhost
+
+Static IPv6 host mappings:
+  ::1                                  --> localhost6
+
+Automatically map hostname to loopback address     : yes
+Automatically map hostname to IPv6 loopback address: no

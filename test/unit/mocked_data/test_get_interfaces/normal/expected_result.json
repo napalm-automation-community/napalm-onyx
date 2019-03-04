@@ -1,0 +1,2179 @@
+[
+        {
+        "Eth1/1": [
+            {
+                "Last change in operational status": "4:40:11 ago (1 oper change)",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:7c",
+                "Admin state": "Enabled",
+                "Operational Fec": "rs-fec",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Up",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "100G",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "88 bits/sec, 11 bytes/sec, 1 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "384 bits/sec, 48 bytes/sec, 1 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "572",
+                        "bytes": "124124",
+                        "fcs errors": "0",
+                        "multicast packets": "572",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "13372",
+                        "bytes": "1274799",
+                        "multicast packets": "12369",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "1003"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/2": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:7e",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/3": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:78",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/4": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:7a",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/5": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:74",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/6": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:76",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/7": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:70",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/8": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:72",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/9": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:6c",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/10": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:6e",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/11": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:68",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/12": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:6a",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/13": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:64",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/14": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:66",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/15": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:60",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/16": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:62",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/17": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:40",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/18": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:42",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/19": [
+            {
+                "Last change in operational status": "2:08:28 ago (7 oper change)",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:44",
+                "Admin state": "Enabled",
+                "Operational Fec": "rs-fec",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Up",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "100G",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "176 bits/sec, 22 bytes/sec, 1 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "280 bits/sec, 35 bytes/sec, 1 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "3596",
+                        "bytes": "577449",
+                        "fcs errors": "0",
+                        "multicast packets": "2934",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "39",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "623"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "9894",
+                        "bytes": "753690",
+                        "multicast packets": "9533",
+                        "unicast packets": "40",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "321"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/20": [
+            {
+                "Last change in operational status": "4:28:35 ago (2 oper change)",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:46",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "25G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "8 bits/sec, 1 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "5",
+                        "bytes": "659",
+                        "fcs errors": "0",
+                        "multicast packets": "5",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "344",
+                        "bytes": "31607",
+                        "multicast packets": "271",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "73"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/21": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:48",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/22": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:4a",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/23": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:4c",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/24": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:4e",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/25": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:50",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/26": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:52",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/27": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:54",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/28": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:56",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/29": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:58",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/30": [
+            {
+                "Last change in operational status": "Never",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:5a",
+                "Admin state": "Enabled",
+                "Operational Fec": "N/A",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Down",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "Unknown",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "fcs errors": "0",
+                        "multicast packets": "0",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "0",
+                        "bytes": "0",
+                        "multicast packets": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/31": [
+            {
+                "Last change in operational status": "4:30:05 ago (1 oper change)",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:5c",
+                "Admin state": "Enabled",
+                "Operational Fec": "rs-fec",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Up",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "100G",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "0 bits/sec, 0 bytes/sec, 0 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "368 bits/sec, 46 bytes/sec, 1 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "1498",
+                        "bytes": "161015",
+                        "fcs errors": "0",
+                        "multicast packets": "1089",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "40",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "369"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "11566",
+                        "bytes": "1083606",
+                        "multicast packets": "10910",
+                        "unicast packets": "39",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "617"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Eth1/32": [
+            {
+                "Last change in operational status": "4:30:06 ago (1 oper change)",
+                "Boot delay time": "0 sec",
+                "Description": "N/A",
+                "Mac address": "7c:fe:90:f2:89:5e",
+                "Admin state": "Enabled",
+                "Operational Fec": "rs-fec",
+                "Advertised speeds": "100G",
+                "MTU": "1500 bytes (Maximum packet size 1522 bytes)",
+                "Operational state": "Up",
+                "Width reduction mode": "Unknown",
+                "Auto-negotiation": "Enabled",
+                "MAC learning mode": "Enabled",
+                "Switchport mode": "access",
+                "Actual speed": "100G",
+                "Flow-control": "receive off send off",
+                "Forwarding mode": "inherited cut-through",
+                "Supported speeds": "1G 10G 25G 40G 50G 56G 100G",
+                "Fec": "auto"
+            },
+            {
+                "Telemetry sampling": "Disabled\t TCs: N/A",
+                "Telemetry threshold": "Disabled\t TCs: N/A",
+                "Telemetry threshold level": "N/A"
+            },
+            {
+                "60 seconds ingress rate": "96 bits/sec, 12 bytes/sec, 1 packets/sec",
+                "Last clearing of \"show interface\" counters": "Never",
+                "60 seconds egress rate": "368 bits/sec, 46 bytes/sec, 1 packets/sec"
+            },
+            {
+                "Rx": [
+                    {
+                        "pause packets": "0",
+                        "error packets": "0",
+                        "oversize packets": "0",
+                        "discard packets by storm control": "0",
+                        "packets": "1995",
+                        "bytes": "275677",
+                        "fcs errors": "0",
+                        "multicast packets": "1991",
+                        "undersize packets": "0",
+                        "symbol errors": "0",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "unknown control opcode": "0",
+                        "broadcast packets": "4"
+                    }
+                ]
+            },
+            {
+                "Tx": [
+                    {
+                        "error packets": "0",
+                        "packets": "12973",
+                        "bytes": "1234699",
+                        "multicast packets": "11989",
+                        "unicast packets": "0",
+                        "discard packets": "0",
+                        "hoq discard packets": "0",
+                        "broadcast packets": "984"
+                    }
+                ]
+            }
+        ]
+    }
+]
+

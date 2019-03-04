@@ -1,0 +1,1724 @@
+Eth1/1:
+  Admin state                      : Enabled
+  Operational state                : Up
+  Last change in operational status: 4:42:27 ago (1 oper change)
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:7c
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : rs-fec
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : 100G
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 40 bits/sec, 5 bytes/sec, 1 packets/sec
+  60 seconds egress rate                    : 304 bits/sec, 38 bytes/sec, 1 packets/sec
+
+  Rx:
+    576                   packets
+    0                     unicast packets
+    576                   multicast packets
+    0                     broadcast packets
+    124992                bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    13472                 packets
+    0                     unicast packets
+    12469                 multicast packets
+    1003                  broadcast packets
+    1282751               bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/2:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:7e
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/3:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:78
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/4:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:7a
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/5:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:74
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/6:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:76
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/7:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:70
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/8:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:72
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/9:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:6c
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+Eth1/10:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:6e
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/11:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:68
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/12:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:6a
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/13:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:64
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/14:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:66
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/15:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:60
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/16:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:62
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/17:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:40
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/18:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:42
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+Eth1/19:
+  Admin state                      : Enabled
+  Operational state                : Up
+  Last change in operational status: 2:20:51 ago (7 oper change)
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:44
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : rs-fec
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : 100G
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 72 bits/sec, 9 bytes/sec, 1 packets/sec
+  60 seconds egress rate                    : 288 bits/sec, 36 bytes/sec, 1 packets/sec
+
+  Rx:
+    3721                  packets
+    42                    unicast packets
+    3037                  multicast packets
+    642                   broadcast packets
+    600882                bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    10319                 packets
+    43                    unicast packets
+    9954                  multicast packets
+    322                   broadcast packets
+    785682                bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/20:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: 4:40:58 ago (2 oper change)
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:46
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 25G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 8 bits/sec, 1 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    5                     packets
+    0                     unicast packets
+    5                     multicast packets
+    0                     broadcast packets
+    659                   bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    344                   packets
+    0                     unicast packets
+    271                   multicast packets
+    73                    broadcast packets
+    31607                 bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/21:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:48
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/22:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:4a
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/23:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:4c
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/24:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:4e
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/25:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:50
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/26:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:52
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/27:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:54
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/28:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:56
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+Eth1/29:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:58
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/30:
+  Admin state                      : Enabled
+  Operational state                : Down
+  Last change in operational status: Never
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:5a
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : N/A
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : Unknown
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+  60 seconds egress rate                    : 0 bits/sec, 0 bytes/sec, 0 packets/sec
+
+  Rx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    0                     packets
+    0                     unicast packets
+    0                     multicast packets
+    0                     broadcast packets
+    0                     bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/31:
+  Admin state                      : Enabled
+  Operational state                : Up
+  Last change in operational status: 4:42:28 ago (1 oper change)
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:5c
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : rs-fec
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : 100G
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 0 bits/sec, 0 bytes/sec, 1 packets/sec
+  60 seconds egress rate                    : 312 bits/sec, 39 bytes/sec, 1 packets/sec
+
+  Rx:
+    1528                  packets
+    43                    unicast packets
+    1115                  multicast packets
+    370                   broadcast packets
+    164902                bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    12062                 packets
+    42                    unicast packets
+    11384                 multicast packets
+    636                   broadcast packets
+    1130704               bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets
+
+Eth1/32:
+  Admin state                      : Enabled
+  Operational state                : Up
+  Last change in operational status: 4:42:29 ago (1 oper change)
+  Boot delay time                  : 0 sec
+  Description                      : N/A
+  Mac address                      : 7c:fe:90:f2:89:5e
+  MTU                              : 1500 bytes (Maximum packet size 1522 bytes)
+  Fec                              : auto
+  Operational Fec                  : rs-fec
+  Flow-control                     : receive off send off
+  Supported speeds                 : 1G 10G 25G 40G 50G 56G 100G
+  Advertised speeds                : 100G
+  Actual speed                     : 100G
+  Auto-negotiation                 : Enabled
+  Width reduction mode             : Unknown
+  Switchport mode                  : access
+  MAC learning mode                : Enabled
+  Forwarding mode                  : inherited cut-through
+
+  Telemetry sampling: Disabled   TCs: N/A
+  Telemetry threshold: Disabled  TCs: N/A
+  Telemetry threshold level: N/A
+
+  Last clearing of "show interface" counters: Never
+  60 seconds ingress rate                   : 40 bits/sec, 5 bytes/sec, 1 packets/sec
+  60 seconds egress rate                    : 312 bits/sec, 39 bytes/sec, 1 packets/sec
+
+  Rx:
+    2048                  packets
+    0                     unicast packets
+    2044                  multicast packets
+    4                     broadcast packets
+    284743                bytes
+    0                     discard packets
+    0                     error packets
+    0                     fcs errors
+    0                     undersize packets
+    0                     oversize packets
+    0                     pause packets
+    0                     unknown control opcode
+    0                     symbol errors
+    0                     discard packets by storm control
+
+  Tx:
+    13493                 packets
+    0                     unicast packets
+    12489                 multicast packets
+    1004                  broadcast packets
+    1285040               bytes
+    0                     discard packets
+    0                     error packets
+    0                     hoq discard packets

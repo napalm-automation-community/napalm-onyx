@@ -1,0 +1,38 @@
+--------------------------------------------------------------------------------------------------------------------------------
+
+Port                Operational state   Admin                         Speed           Description
+--------------------------------------------------------------------------------------------------------------------------------
+mgmt1               Down                Enabled                       UNKNOWN         -
+mgmt0               Up                  Enabled                       1000Mb/s (auto) -
+Ethernet1/1              Up                  Enabled                       100G            -
+Ethernet1/2              Down                Enabled                       Unknown         -
+Ethernet1/3              Down                Enabled                       Unknown         -
+Ethernet1/4              Down                Enabled                       Unknown         -
+Ethernet1/5              Down                Enabled                       Unknown         -
+Ethernet1/6              Down                Enabled                       Unknown         -
+Ethernet1/7              Down                Enabled                       Unknown         -
+Ethernet1/8              Down                Enabled                       Unknown         -
+Ethernet1/9              Down                Enabled                       Unknown         -
+Ethernet1/10             Down                Enabled                       Unknown         -
+Ethernet1/11             Down                Enabled                       Unknown         -
+Ethernet1/12             Down                Enabled                       Unknown         -
+Ethernet1/13             Down                Enabled                       Unknown         -
+Ethernet1/14             Down                Enabled                       Unknown         -
+Ethernet1/15             Down                Enabled                       Unknown         -
+Ethernet1/16             Down                Enabled                       Unknown         -
+Ethernet1/17             Down                Enabled                       Unknown         -
+Ethernet1/18             Down                Enabled                       Unknown         -
+Ethernet1/19             Up                  Enabled                       100G            -
+Ethernet1/20             Down                Enabled                       Unknown         -
+Ethernet1/21             Down                Enabled                       Unknown         -
+Ethernet1/22             Down                Enabled                       Unknown         -
+Ethernet1/23             Down                Enabled                       Unknown         -
+Ethernet1/24             Down                Enabled                       Unknown         -
+Ethernet1/25             Down                Enabled                       Unknown         -
+Ethernet1/26             Down                Enabled                       Unknown         -
+Ethernet1/27             Down                Enabled                       Unknown         -
+Ethernet1/28             Down                Enabled                       Unknown         -
+Ethernet1/29             Down                Enabled                       Unknown         -
+Ethernet1/30             Down                Enabled                       Unknown         -
+Ethernet1/31             Up                  Enabled                       100G            -
+Ethernet1/32             Up                  Enabled                       100G            -

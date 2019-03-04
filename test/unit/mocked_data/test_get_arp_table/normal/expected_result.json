@@ -1,0 +1,39 @@
+[
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.1",
+    "mac": "00:00:5E:00:01:01",
+    "type": "Dynamic ETH"
+  },
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.35",
+    "mac": "00:1E:67:ED:FC:1D",
+    "type": "Dynamic ETH"
+  },
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.38",
+    "mac": "A4:BF:01:07:42:01",
+    "type": "Dynamic ETH"
+  },
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.117",
+    "mac": "00:1A:4B:A4:99:88",
+    "type": "Dynamic ETH"
+  },
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.137",
+    "mac": "00:25:90:81:27:EC",
+    "type": "Dynamic ETH"
+  },
+  {
+    "interface": "mgmt0",
+    "ip": "10.209.36.142",
+    "mac": "00:25:90:4F:CE:06",
+    "type": "Dynamic ETH"
+  }
+]
+

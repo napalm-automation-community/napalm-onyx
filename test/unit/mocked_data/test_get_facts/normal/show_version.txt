@@ -1,0 +1,18 @@
+Product name:      Onyx
+Product release:   3.7.1160
+Build ID:          #1-dev
+Build date:        2019-02-20 08:47:24
+Target arch:       x86_64
+Target hw:         x86_64
+Built by:          jenkins@185a187652e9
+Version summary:   X86_64 3.7.1160 2019-02-20 08:47:24 x86_64
+
+Product model:     x86
+Host ID:           248A070B2960
+System UUID:       03000200-0400-0500-0006-000700080009
+
+Uptime:            1d 9h 50m 31s
+CPU load averages: 2.43 / 2.40 / 2.38
+Number of CPUs:    2
+System memory:     3324 MB used / 12078 MB free / 15402 MB total
+Swap:              0 MB used / 0 MB free / 0 MB total

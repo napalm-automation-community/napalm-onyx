@@ -1,0 +1,13 @@
+Arp_table_output
+VRF Name default:
+  Total number of entries: 18
+
+  -----------------------------------------------------------------------------------
+  Address              Type            Hardware Address          Interface
+  -----------------------------------------------------------------------------------
+  10.209.36.1          Dynamic ETH     00:00:5E:00:01:01         mgmt0
+  10.209.36.35         Dynamic ETH     00:1E:67:ED:FC:1D         mgmt0
+  10.209.36.38         Dynamic ETH     A4:BF:01:07:42:01         mgmt0
+  10.209.36.117        Dynamic ETH     00:1A:4B:A4:99:88         mgmt0
+  10.209.36.137        Dynamic ETH     00:25:90:81:27:EC         mgmt0
+  10.209.36.142        Dynamic ETH     00:25:90:4F:CE:06         mgmt0

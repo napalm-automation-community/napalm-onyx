@@ -1,0 +1,12 @@
+future
+coveralls
+ddt
+flake8-import-order
+pytest>=3.6
+pytest-cov>=2.4.0
+pytest-json
+pytest-pythonpath
+pylama
+mock
+tox
+-r requirements.txt

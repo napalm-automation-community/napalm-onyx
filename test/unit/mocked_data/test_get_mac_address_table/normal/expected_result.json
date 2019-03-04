@@ -1,0 +1,14 @@
+[
+  {
+    "interface": "Eth1/19",
+    "mac": "E4:1D:2D:66:DF:9B",
+    "vlan": 1,
+    "type": "Dynamic"
+  },
+  {
+    "interface": "Eth1/19",
+    "mac": "EC:0D:9A:42:EA:00",
+    "vlan": 1,
+    "type": "Dynamic"
+  }
+]
