@@ -1,0 +1,15 @@
+{"Eth1/15/3": [
+        {
+            "Device ID": "00:aa:bb:cc:dd:ff",
+            "Port ID": "swp0",
+            "System Name": "mgmt1.dc"
+        }
+    ],
+    "Eth1/15/2": [
+        {
+            "Device ID": "01:aa:bb:cc:dd:ff",
+            "Port ID": "swp0",
+            "System Name": "mgmt2.dc"
+        }
+    ]
+}

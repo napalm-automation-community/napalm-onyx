@@ -43,6 +43,9 @@ class PatchedONYXSSHDriver(onyx_ssh.ONYXSSHDriver):
     def is_alive(self):
         return {"is_alive": True}
 
+    def disable_paging(self):
+        pass
+
     def open(self):
         pass
 
@@ -57,6 +60,9 @@ class FakeONYXSSHDevice(BaseTestDouble):
             result = json.dumps(self.read_json_file(full_path))
         else:
             result = self.read_txt_file(full_path)
+
+        if command == 'no cli session paging enable':
+            result = ''
         return result
 
     def disconnect(self):

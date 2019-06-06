@@ -1,0 +1,14 @@
+    {
+        "Eth1/15/3": [
+            {
+                "port": "swp0",
+                "hostname": "mgmt1.dc"
+            }
+        ],
+        "Eth1/15/2": [
+            {
+                "port": "swp0",
+                "hostname": "mgmt2.dc"
+            }
+        ]
+    }

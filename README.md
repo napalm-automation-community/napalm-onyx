@@ -10,5 +10,6 @@ This driver initially targets the Mellanox device with Onyx OS though other, sim
 * get_facts
 * get_interfaces
 * get_mac_address_table
+* get_lldp_neighbors
 * is_alive
 * cli

@@ -577,7 +577,28 @@ class ONYXSSHDriver(NetworkDriver):
                     return 'Created Vlan with id {} has Done Successfully'.format(vlan_id)
 
     def get_lldp_neighbors(self):
-        raise NotImplementedError("get_lldp_neighbors is not supported yet for onyx devices")
+        self.disable_paging()
+        command = 'show lldp remote | json-print'
+        output = self.device.send_command(command)
+
+        data = json.loads(output)
+
+        interfaces = {}
+        for interface in data:
+            peers = []
+            for peer in data[interface]:
+                _port = ''
+                if 'Port ID' in peer:
+                    _port = peer['Port ID']
+                _hostname = ''
+                if 'System Name' in peer:
+                    _hostname = peer['System Name']
+
+                peers.append({'hostname': _hostname, 'port': _port})
+
+            interfaces[interface] = peers
+
+        return interfaces
 
     def get_bgp_neighbors(self):
         raise NotImplementedError("get_bgp_neighbors is not supported yet for onyx devices")
