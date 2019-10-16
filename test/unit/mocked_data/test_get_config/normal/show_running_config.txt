@@ -1,0 +1,68 @@
+##
+## Running database "initial"
+## Generated at 2019/08/06 04:28:32 +0000
+## Hostname: spider-144
+##
+
+##
+## Running-config temporary prefix mode setting
+##
+no cli default prefix-modes enable
+##
+## Interface Ethernet configuration
+##
+   interface ethernet 1/1 description %1
+   
+##
+## Local user account configuration
+##
+   username root nopassword
+   
+##
+## AAA remote server configuration
+##
+# ldap bind-password ********
+# radius-server key ********
+# tacacs-server key ********
+   
+##
+## SNMP configuration
+##
+   snmp-server contact uu
+no snmp-server enable
+no snmp-server enable notify
+   snmp-server host 1.1.11.1 disable
+   snmp-server host 1.1.11.1 traps port 22 version 2c
+   snmp-server location mm
+no snmp-server user admin v3
+   snmp-server user sara v3 capability admin
+   snmp-server user sara v3 enable
+   snmp-server user sara v3 enable sets
+   snmp-server user sara v3 encrypted auth sha "" priv aes-128 ""
+   snmp-server user sara v3 require-privacy
+   snmp-server user test v3 capability admin
+   snmp-server user test v3 enable
+   snmp-server user test v3 enable sets
+   snmp-server user test v3 encrypted auth sha "" priv aes-128 ""
+   snmp-server user test v3 require-privacy
+   
+##
+## Network management configuration
+##
+# web proxy auth basic password ********
+   ntp authentication-key 5 sha1 ******** 
+   ntp authentication-key 200 sha1 ******** 
+   ntp disable
+   
+##
+## X.509 certificates configuration
+##
+#
+# Certificate name system-self-signed, ID d3e96e936ef72910754a4063967937e29cd2eec7
+# (public-cert config omitted since private-key config is hidden)
+
+##
+## Persistent prefix mode setting
+##
+cli default prefix-modes enable
+

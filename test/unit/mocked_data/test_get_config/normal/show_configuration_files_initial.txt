@@ -1,0 +1,34 @@
+##
+## Active saved database "initial"
+## Generated at 2019/08/06 04:28:33 +0000
+## Hostname: spider-144
+##
+
+##
+## Running-config temporary prefix mode setting
+##
+no cli default prefix-modes enable
+
+##
+## AAA remote server configuration
+##
+# ldap bind-password ********
+# radius-server key ********
+# tacacs-server key ********
+   
+##
+## Network management configuration
+##
+# web proxy auth basic password ********
+   
+##
+## X.509 certificates configuration
+##
+#
+# Certificate name system-self-signed, ID 0000000000000000000000000000000000000001
+
+##
+## Persistent prefix mode setting
+##
+cli default prefix-modes enable
+

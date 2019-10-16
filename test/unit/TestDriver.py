@@ -1,4 +1,4 @@
-"""Test Config for ONYXSSHDriverDriver"""
+"""Test Config for ONYXSSHDriverDriver."""
 # Copyright 2015 Spotify AB. All rights reserved.
 #
 # The contents of this file are licensed under the Apache License, Version 2.0

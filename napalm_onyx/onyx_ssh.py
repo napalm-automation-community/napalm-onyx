@@ -116,7 +116,7 @@ def bgp_normalize_table_data(bgp_table):
 
 
 def bgp_table_parser(bgp_table):
-    """Generate that parses a line of bgp summary table and returns a dict compatible with NAPALM
+    """Generate that parses a line of bgp summary table and returns a dict compatible with NAPALM.
 
     Example line:
     10.2.1.14       4    10  472516  472238      361    0    0     3w1d 9
@@ -543,7 +543,7 @@ class ONYXSSHDriver(NetworkDriver):
         self.device.send_command("exit", expect_string=r'\(config\)')
 
     def show_vlans(self):
-        """Return a lists of created vlans on switch"""
+        """Return a lists of created vlans on switch."""
         self.disable_paging()
         command = 'show vlan | json-print'
         output = self.device.send_command(command)
@@ -708,7 +708,7 @@ class ONYXSSHDriver(NetworkDriver):
         raise NotImplementedError("get_interfaces_ip is not supported yet for onyx devices")
 
     def get_mac_address_table(self):
-        """Return a lists of dictionaries. Each dictionary represents an entry in the MAC Address
+        """Return a lists of dictionaries. Each dictionary represents an entry in the MAC Address.
 
         Table, having the following keys
             * mac (string)
@@ -773,4 +773,53 @@ class ONYXSSHDriver(NetworkDriver):
         raise NotImplementedError("traceroute is not supported yet for onyx devices")
 
     def get_config(self, retrieve='all'):
-        raise NotImplementedError("get_config is not supported yet for onyx devices")
+        """Return running configration as a json array.
+
+        {
+            'running': '##
+                        ## Running database "initial"
+                        ## Generated at 2019/08/06 04:11:38 +0000
+                        ## Hostname: spider-144
+                        ##
+
+                        ##
+                        ## Running-config temporary prefix mode setting
+                        ##
+                        no cli default prefix-modes enable
+                        ...',
+            'startup': '##
+                        ## Active saved database "initial"
+                        ## Generated at 2019/08/06 04:13:27 +0000
+                        ## Hostname: spider-144
+                        ##
+
+                        ##
+                        ## Running-config temporary prefix mode setting
+                        ##
+                        no cli default prefix-modes enable
+
+                        ##
+                        ## AAA remote server configuration
+                        ##
+                        # ldap bind-password ********
+                        # radius-server key ********
+                        # tacacs-server key ********',
+            'candidate': ''
+        }
+        """
+        config = {'startup': '', 'running': '', 'candidate': ''}  # default values
+
+        if retrieve in ('running', 'all'):
+            command = 'show running-config'
+            running_config = self._send_command(command)
+            config['running'] = py23_compat.text_type(running_config)
+
+        if retrieve in ('startup', 'all'):
+            command = 'show configuration files initial'
+            initial_config = self._send_command(command)
+            config['startup'] = py23_compat.text_type(initial_config)
+
+        if retrieve in ('candidate', 'all'):
+            if self.merge_candidate:
+                config['candidate'] = py23_compat.text_type(self.merge_candidate)
+        return config

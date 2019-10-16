@@ -1,4 +1,4 @@
-"""Test fixtures"""
+"""Test fixtures."""
 
 import pytest
 import json
